@@ -1,0 +1,16 @@
+bin\Debug\TimeTravel.exe
+bin\Debug\TimeTravel.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TimeTravel.Form1.resources
+obj\Debug\TimeTravel.Properties.Resources.resources
+obj\Debug\TimeTravel.csproj.GenerateResource.Cache
+obj\Debug\TimeTravel.exe
+obj\Debug\TimeTravel.pdb
+bin\Release\TimeTravel.exe
+bin\Release\TimeTravel.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\TimeTravel.Form1.resources
+obj\Release\TimeTravel.Properties.Resources.resources
+obj\Release\TimeTravel.csproj.GenerateResource.Cache
+obj\Release\TimeTravel.exe
+obj\Release\TimeTravel.pdb
